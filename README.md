@@ -8,13 +8,6 @@
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamsdo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 📊 Github Activity Quadrants
-
-![Pedro's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedroamsdo&bg_color=000000&color=00bfff&line=1e90ff&point=ffffff&area=true&hide_border=true)
-
-## 🐍 Snake Eating My Contributions
-
-![snake gif](https://github.com/Pedroamsdo/Pedroamsdo/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
