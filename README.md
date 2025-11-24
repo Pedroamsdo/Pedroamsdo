@@ -1,8 +1,5 @@
 <h2> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"/> I'm Pedro Anacleto.</h2>
 
-- 📚 Studying aeronautical engineering at Instituto Tecnológico de Aeronáutica.
-- 🌱 Enthusiastic data science student.
-- 🤓 Aiming to work in merging  data science with others studied in the graduation course, as applying them in the understanding in financial market and aeronautical logistics.
 
 ##
 
