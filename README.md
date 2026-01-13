@@ -1,11 +1,7 @@
 <h2> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"/> I'm Pedro Anacleto.</h2>
 
 
-<div>
-  <a href="https://github.com/pedroamsdo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedroamsdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamsdo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 
 <div style="display: inline_block"><br>
