@@ -1,6 +1,5 @@
 <h2> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"/> I'm Pedro Anacleto.</h2>
 
-##
 
 <div>
   <a href="https://github.com/pedroamsdo">
